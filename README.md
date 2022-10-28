@@ -11,8 +11,8 @@ Eu sou estutande de Sistemas de Informação, atualmente, na Pontifícia Univers
 - Power BI
 
 ## Idiomas
-- Português 	<sup> Nativo </sup>
-- Inglês 	<sup> Upper Intermediate </sup>
+- Português 	<sub> Nativo </sub>
+- Inglês 	<sub> Upper Intermediate </sub>
 
 ## Contato
 (E-mail:){mailto: izabelacecilia275@gmail.com}
