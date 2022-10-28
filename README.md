@@ -15,4 +15,4 @@ Eu sou estutande de Sistemas de Informação, atualmente, na Pontifícia Univers
 - Inglês 	<sub> Upper Intermediate </sub>
 
 ## Contato
-(E-mail:){mailto: izabelacecilia275@gmail.com}
+[E-mail:](mailto: izabelacecilia275@gmail.com)
