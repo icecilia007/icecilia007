@@ -1,3 +1,18 @@
-# **Hi**, I'm Izabela⚡
+# **Hi**, I'm Izabela⚡💻
 
-![alt text](https://github.com/icecilia007/icecilia007/blob/main/img/Izabela%20Cecilia%20Graduanda%20em%20sistemas%20de%20informa%C3%A7%C3%A3o-PhotoRoom.png)
+Eu sou estutande de Sistemas de Informação, atualmente, na Pontifícia Universidade Católica de Minas Gerais.<br>Tenho muito interesse em back-end e tecnologias no geral, gostaria de me inserir nesse mercado e colaborar com o mesmo.
+
+## Linguagens e Ferramentas
+- Java
+- C
+- HTML
+- CSS
+- Java Script
+- Power BI
+
+## Idiomas
+- Português 	<sup> Nativo </sup>
+- Inglês 	<sup> Upper Intermediate </sup>
+
+## Contato
+(E-mail:){mailto: izabelacecilia275@gmail.com}
