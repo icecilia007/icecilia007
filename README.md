@@ -3,11 +3,8 @@
   <img src="https://media.giphy.com/media/zijzKcHeOfP72RCers/giphy.gif" width="160"/>
 </div>
 <div id="badges" align="center">
-      <a href="your-indeed-URL " >
-        <img src="https://img.shields.io/badge/Indeed-white?style=for-the-badge&logo=indeed&logoColor=blue" alt="Indeed Badge"/>
-      </a>
       <a href="https://www.linkedin.com/in/izabela-cec%C3%ADlia-652a85219">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/LinkedIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="mailto:izabelacecilia275@gmail.com" >
         <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
@@ -23,7 +20,18 @@
 
 ## Languages and Tools
 
-<div>
+<br>
+
+- Java
+- C
+- HTML
+- CSS
+- Java Script
+- Power BI
+- Eclipse
+- CodeBlocks
+
+<div  id="tools">
   <img src="https://cdn-icons-png.flaticon.com/512/186/186320.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/136/136527.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/2306/2306122.png" title="JS" alt="JS" width="40" height="43"/>&nbsp;
@@ -36,14 +44,7 @@
 
 <br>
 
-- Java
-- C
-- HTML
-- CSS
-- Java Script
-- Power BI
-- Eclipse
-- CodeBlocks
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icecilia007&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Language
 - Portuguese 	<sub> Native </sub>
