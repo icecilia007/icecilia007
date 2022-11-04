@@ -16,7 +16,7 @@
 
 #   <img src="https://cdn-icons-png.flaticon.com/512/206/206597.png" title="Nacionalidade" alt="Brazil" width="30" height="30"/>&nbsp; **Hi**, I'm Izabela
 
-  I am currently a student of information systems at the Pontifical Catholic University of Minas Gerais.<br>I am very interested in back-end and technology in general, and would like to enter this market and collaborate with it.
+  I am currently a student of information systems at the Pontifical Catholic University of Minas Gerais.<br>I'm very interested in back-end and technology in general, and would like to enter this market and collaborate with it.
 
 ## Languages and Tools
 
