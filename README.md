@@ -30,6 +30,12 @@
 - Power BI
 - Eclipse
 - CodeBlocks
+- Spring Boot
+- JPA
+- Mysql
+- RabbitMQ
+- DevOps
+  
 
 <div  id="tools">
   <img src="https://cdn-icons-png.flaticon.com/512/186/186320.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
