@@ -35,6 +35,9 @@
 - Mysql
 - RabbitMQ
 - DevOps
+- Kafka
+- Azure
+  
   
 
 <div  id="tools">
